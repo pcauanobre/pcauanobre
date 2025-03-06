@@ -1,6 +1,6 @@
-# Hi folks
+# Hi folks,
 
-My name is Pedro Cauã. I am currently studying **Systems Analysis and Development** at UNIFOR and working at a sublimation company, where I implemented several automations to improve production efficiency.
+I'm Pedro Cauã and I am currently studying **Systems Analysis and Development** at UNIFOR and working at a sublimation company, where I implemented several automations to improve production efficiency.
 
 ## What I'm Learning
 
