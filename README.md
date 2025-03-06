@@ -1,35 +1,23 @@
 # Hi folks
 
-My name is Pedro Cauã. I am currently studying Analysis and Development of Systems (ADS) at UNIFOR, and I work at a sublimation company where I implemented several automations to improve production.
-
-## About Me
-
-- **Name:** Pedro Cauã
-- **Education:** ADS at UNIFOR
-- **Professional Experience:** Implemented process automations in the sublimation industry to enhance production efficiency.
+My name is Pedro Cauã. I am currently studying **Systems Analysis and Development** at UNIFOR and working at a sublimation company, where I implemented several automations to improve production efficiency.
 
 ## What I'm Learning
 
 📚 **Learning Java and Spring to enhance my backend skills.**  
-I enjoy working with Java and Python, and I'm constantly exploring new technologies and frameworks to improve my development capabilities.
+I enjoy working with Java and Python, and I'm always exploring new technologies and frameworks to further enhance my development capabilities.
 
-## Projects
+## Interests and Future Goals
 
-Some of my projects focus on creating and implementing solutions to optimize production processes. Here are a few highlights:
-
-- **Production Automation:** Developed scripts and systems that significantly improved operational efficiency at my company.
-- **[Project X](#):** Brief description of the project, its technologies, and its impact.
-- **[Project Y](#):** Brief description of the project, its technologies, and its impact.
+I am really enjoying the field of automation and plan to deepen my knowledge in this area. However, I am still exploring different fields in college to determine the area I want to specialize in.
 
 ## Technologies & Tools
 
 - **Programming Languages:** Java, Python, and more.
-- **Frameworks & Tools:** Spring, various automation tools, and other libraries for system development.
+- **Frameworks & Tools:** Spring, various automation tools, and libraries for system development.
 - **Methodologies:** Agile development, continuous integration, and task automation.
 
 ## Contact
 
-Feel free to reach out if you'd like to know more or discuss potential collaborations:
-
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Email:** [pedrocauaggn@gmail.com](mailto:pedrocauaggn@gmail.com)
+- **LinkedIn:** [linkedin.com/in/pedro-cauã-graciano-girão-nobre-b6a387309](https://linkedin.com/in/pedro-cauã-graciano-girão-nobre-b6a387309)
