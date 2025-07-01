@@ -20,4 +20,4 @@ I am really enjoying the field of automation and plan to deepen my knowledge in 
 ## Contact
 
 - **Email:** [pedrocauaggn@gmail.com](mailto:pedrocauaggn@gmail.com)
-- **LinkedIn:** **[linkedin.com/in/pedro-cauã-graciano-girão-nobre-b6a387309](www.linkedin.com/in/pedrocauanobre)**
+- **LinkedIn:** https://www.linkedin.com/in/pedrocauanobre/
